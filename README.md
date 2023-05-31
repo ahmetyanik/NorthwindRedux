@@ -5,4 +5,8 @@ json-server --watch db.json
 
 ### komutu ile calistirilmalidir.
 
-### Daha sonra npm install ve npm start yaparak proje calistirilmalidir.
+### Daha sonra 
+npm install 
+### ve 
+npm start 
+### yaparak proje calistirilmalidir.
